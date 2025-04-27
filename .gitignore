@@ -1,4 +1,5 @@
 /output
-/output_samples
-/output_samples2
+/output_*
 /archive
+/cropped_*
+model_*
